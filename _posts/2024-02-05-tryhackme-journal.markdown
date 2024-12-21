@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-title: TryHackMe Journal "Coming Soon"
+title: TryHackMe Journal
 img: tryhackme.png
 alt: image-alt
 
