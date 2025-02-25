@@ -363,7 +363,7 @@ form .row:first-child .floating-label-form-group {
 
 footer {
     color: #fff;
-    textalign-center;
+    text-align: center;
 }
 
 footer h3 {
